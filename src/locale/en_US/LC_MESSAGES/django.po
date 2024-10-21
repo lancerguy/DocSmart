@@ -967,7 +967,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "DocSmart sign in"
 msgstr ""
 
 #: documents/templates/account/login.html:10
@@ -1004,7 +1004,7 @@ msgid "or sign in via"
 msgstr ""
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "DocSmart reset password request"
 msgstr ""
 
 #: documents/templates/account/password_reset.html:9
@@ -1026,7 +1026,7 @@ msgid "Send me instructions!"
 msgstr ""
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "DocSmart reset password sent"
 msgstr ""
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1040,7 +1040,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "DocSmart reset password confirmation"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1064,7 +1064,7 @@ msgid "Change my password"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "DocSmart reset password complete"
 msgstr ""
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1079,7 +1079,7 @@ msgid ""
 msgstr ""
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "DocSmart sign up"
 msgstr ""
 
 #: documents/templates/account/signup.html:10
@@ -1102,7 +1102,7 @@ msgid "Sign up"
 msgstr ""
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
+msgid "DocSmart is loading..."
 msgstr ""
 
 #: documents/templates/index.html:62
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
+msgid "DocSmart social account sign in"
 msgstr ""
 
 #: documents/templates/socialaccount/authentication_error.html:10
@@ -1143,7 +1143,7 @@ msgid "Continue"
 msgstr ""
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
+msgid "DocSmart social account sign up"
 msgstr ""
 
 #: documents/templates/socialaccount/signup.html:10
@@ -1451,7 +1451,7 @@ msgid "Chinese Simplified"
 msgstr ""
 
 #: paperless/urls.py:242
-msgid "Paperless-ngx administration"
+msgid "DocSmart administration"
 msgstr ""
 
 #: paperless_mail/admin.py:39

@@ -247,8 +247,8 @@ websocket_urlpatterns = [
 ]
 
 # Text in each page's <h1> (and above login form).
-admin.site.site_header = "Paperless-ngx"
+admin.site.site_header = "DocSmart"
 # Text at the end of each page's <title>.
-admin.site.site_title = "Paperless-ngx"
+admin.site.site_title = "DocSmart"
 # Text at the top of the admin index page.
-admin.site.index_title = _("Paperless-ngx administration")
+admin.site.index_title = _("DocSmart administration")

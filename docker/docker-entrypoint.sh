@@ -156,7 +156,7 @@ install_languages() {
 	fi
 }
 
-echo "Paperless-ngx docker container starting..."
+echo "DocSmart docker container starting..."
 
 gosu_cmd=(gosu paperless)
 if [ "$(id --user)" == "$(id --user paperless)" ]; then

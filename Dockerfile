@@ -10,9 +10,10 @@ FROM --platform=$BUILDPLATFORM docker.io/node:20-bookworm-slim AS compile-fronte
 COPY ./src-ui /src/src-ui
 
 WORKDIR /src/src-ui
-RUN set -eux \
-  && npm update npm -g \
-  && npm ci
+RUN npm config set strict-ssl false
+RUN set -eux
+RUN npm update npm -g
+RUN npm ci
 
 ARG PNGX_TAG_VERSION=
 # Add the tag to the environment file if its a tagged dev build

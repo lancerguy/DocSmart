@@ -51,7 +51,7 @@ RUN set -eux \
 FROM docker.io/python:3.12-slim-bookworm AS main-app
 
 LABEL org.opencontainers.image.authors="paperless-ngx team <hello@paperless-ngx.com>"
-LABEL org.opencontainers.image.documentation="https://docs.paperless-ngx.com/"
+LABEL org.opencontainers.image.documentation="https://docs.dbest.com/"
 LABEL org.opencontainers.image.source="https://github.com/paperless-ngx/paperless-ngx"
 LABEL org.opencontainers.image.url="https://github.com/paperless-ngx/paperless-ngx"
 LABEL org.opencontainers.image.licenses="GPL-3.0-only"
